@@ -1,0 +1,10 @@
+# JavaScript
+node_modules/
+
+# C#
+bin/
+obj/
+
+# Java (arquivos compilados)
+*.class
+out/

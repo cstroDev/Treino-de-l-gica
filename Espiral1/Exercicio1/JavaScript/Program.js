@@ -1,0 +1,1 @@
+console.log("Olá, seja bem-vindo de novo!\nBorá codar até não aguentar mais");
