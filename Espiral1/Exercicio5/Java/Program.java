@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Program {
 
-    public static void main(String[] arrgs) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Informe seu nome e sua série favorita:");
