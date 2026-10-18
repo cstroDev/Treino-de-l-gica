@@ -1,4 +1,4 @@
-# <Seja Bem-vindo!>
+# <Programa do Dobro>
 
 ## Descrição
 
