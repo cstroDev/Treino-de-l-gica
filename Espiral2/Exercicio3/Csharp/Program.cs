@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Infome a altura do triângulo:");
+        Console.WriteLine("Informe a altura do triângulo:");
         double altura = double.Parse(Console.ReadLine() ?? "");
 
         Console.WriteLine("Informe a base do triângulo:");

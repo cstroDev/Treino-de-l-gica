@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe seu salário base, o bônus mensal em porcentagem e o total de desontos em reais:");
+        Console.WriteLine("Informe seu salário base, o bônus mensal em porcentagem e o total de descontos em reais:");
         double salarioBase = double.Parse(Console.ReadLine() ?? "");
         double bonus = double.Parse(Console.ReadLine() ?? "");
         double desconto = double.Parse(Console.ReadLine() ?? "");

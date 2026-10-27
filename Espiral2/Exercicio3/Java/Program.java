@@ -5,7 +5,7 @@ class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Infome a altura do triângulo:");
+        System.out.println("Informe a altura do triângulo:");
         int altura = sc.nextInt();
 
         System.out.println("Informe a base do triângulo:");

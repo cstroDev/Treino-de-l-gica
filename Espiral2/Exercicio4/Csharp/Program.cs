@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Infome quatro notas:");
+        Console.WriteLine("Informe quatro notas:");
         double nota1 = double.Parse(Console.ReadLine() ?? "");
         double nota2 = double.Parse(Console.ReadLine() ?? "");
         double nota3 = double.Parse(Console.ReadLine() ?? "");

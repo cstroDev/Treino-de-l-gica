@@ -5,7 +5,7 @@ class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Informe seu salário base, o bônus mensal em porcentagem e o total de desontos em reais:");
+        System.out.println("Informe seu salário base, o bônus mensal em porcentagem e o total de descontos em reais:");
         double salarioBase = sc.nextDouble();
         double bonus = sc.nextDouble();
         double desconto = sc.nextDouble();

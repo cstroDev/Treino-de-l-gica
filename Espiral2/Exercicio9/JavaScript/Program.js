@@ -1,7 +1,7 @@
 import prompt from 'prompt-sync';
 let ler = prompt();
 
-console.log("Informe seu salário base, o bônus mensal em porcentagem e o total de desontos em reais:");
+console.log("Informe seu salário base, o bônus mensal em porcentagem e o total de descontos em reais:");
 let salarioBase = Number(ler());
 let bonus = Number(ler());
 let desconto = Number(ler());

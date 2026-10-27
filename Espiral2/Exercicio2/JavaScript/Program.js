@@ -1,7 +1,7 @@
 import prompt from 'prompt-sync';
 let ler = prompt();
 
-console.log("Infome um número:")
+console.log("Informe um número:")
 let n = Number(ler());
 
 let metade = n / 2;

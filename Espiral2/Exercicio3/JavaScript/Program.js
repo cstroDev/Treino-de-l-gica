@@ -1,7 +1,7 @@
 import prompt from 'prompt-sync';
 let ler = prompt();
 
-console.log("Infome a altura do triângulo:");
+console.log("Informe a altura do triângulo:");
 let altura = Number(ler());
 
 console.log("Informe a base do triângulo:");

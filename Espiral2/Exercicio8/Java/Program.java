@@ -5,7 +5,7 @@ class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Informe o valor total da compra e a quantidade de parcelas:");
+        System.out.println("Informe a quantidade de cada tamanho do açai e o valor do cupom, se houver:");
         int qtdPequeno = sc.nextInt();
         int qtdMedio = sc.nextInt();
         int qtdGrande = sc.nextInt();

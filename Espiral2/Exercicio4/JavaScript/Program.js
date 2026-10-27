@@ -1,7 +1,7 @@
 import prompt from 'prompt-sync';
 let ler = prompt();
 
-console.log("Infome quatro notas:");
+console.log("Informe quatro notas:");
 let nota1 = Number(ler());
 let nota2 = Number(ler());
 let nota3 = Number(ler());
